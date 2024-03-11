@@ -1,4 +1,4 @@
-# ResistomeWU
+# Antibiotic Resistance Genes and crAssphage in Hospital Wastewater and a canal receiving the treatment effluent
 
 **Antibiotic Resistance Genes and crAssphage in Hospital Wastewater 
 and a canal receiving the treatment effluent **
