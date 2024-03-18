@@ -12,5 +12,5 @@ d Faculty of Geosciences and Civil Engineering, Kanazawa University, Kakumamachi
 e Department of Environmental Health and Technology, School of Public Health, Walailak University, Nakhon Si Thammarat 80160, Thailand
 f Excellent Center for Dengue and Community Public Health (EC for DACH), Walailak University, Nakhon Si Thammarat 80160, Thailand
 
-**Acknowledgment**
-This study was supported by School of Public Health, Walailak University (Grant No. 01/2564 & 01/2565) and Thailand Science Research and Innovation - Chulabhorn Research Institute (grant no. 48293/4691984).
+Acknowledgment
+This study was supported by School of Public Health, Walailak University (Grant No. 01/2564 & 01/2565), Walailak University under the international research collaboration scheme (Contract number WU-CIA-01303/ 2024), and Thailand Science Research and Innovation - Chulabhorn Research Institute (Grant no. 48293/4691984).
